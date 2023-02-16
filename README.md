@@ -10,3 +10,5 @@ Tasks:
   c) Combine selected data for specific analytics such as sentiments, problems, issues etc
   
   d) Create web app for interactive presentation
+
+For more info, visit: https://deeplearningmy.com/malaysia-data-analytics/
